@@ -3,9 +3,9 @@ Contributors: illutic
 Tags: wishlist
 Requires at least: 3.0
 Tested up to: 3.0.1
-Stable tag: 1.1
+Stable tag: 1.2
 
-A wishlist plugin for Shopp (v1.1+).
+A wishlist plugin for Shopp (v1.2+).
 
 == Description ==
 
@@ -52,6 +52,9 @@ Yes. Every customer has their own wishlist URL on `domain.com/wishlist/share/cus
 From version 1.2 it does, yes.
 
 == Changelog ==
+
+= 1.2.1b1 =
+- Support for Shopp 1.2
 
 = 1.2 =
 * Added shopp() tags support (with backwards compatibility), this also means changes inside the wishlist templates (whishlist.php & sidewishlist.php)

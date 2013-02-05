@@ -2,14 +2,14 @@
 /*
 
 	Plugin Name: Shopp Wishlist
-	Plugin URI: http://plugins.wordpress.illutic-webdesign.nl
+	Plugin URI: http://www.jbollinger.co.uk
 	Description: Add a wishlist to your Shopp webshop.
-	Version: 1.2.1
-	Author: illutic WebDesign
-	Author URI: http://www.illutic-webdesign.nl
+	Version: 1.2.1b1
+	Original Author: illutic WebDesign
+	Author URI: http://www.jbollinger.co.uk
 	Modified By: Jon Bollinger
 
-	Copyright 2010, illutic WebDesign
+	Copyright 2012, Jon Bollinger
 
 	This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
